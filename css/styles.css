@@ -41,7 +41,10 @@ h3{
   font-style: italic;
 }
 .image{
-  float: right;
+  float: left;
   width: 200px;
   height:200px;
+}
+.backgrounds{
+  background-image: url("home/victor/Desktop/project-food/images/fastfood/beefBurger.jpg");
 }
