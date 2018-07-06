@@ -1,20 +1,47 @@
 h1 {
   font-size: 30;
   font-style: italic;
-  font-color:blue;
+  color:blue;
   font-family: cursive;
 }
 h2{
-  font-size: 27;
+  font-size: 27px;
   font-style: oblique;
-  font-color: red;
+  color: red;
 }
 .images{
-  height: 200px;
-  width: 200px;
+  height: 120px;
+  width: 120px;
+  float: left;
 }
 .list{
-  font-size: 21pxl;
+  font-size: 21px;
   font-style: oblique;
   font-family: fantasy;
+  text-align: center;
+  color: blue;
+}
+h3 {
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+}
+.background{
+  background-image: url("/home/victor/Desktop/project-food/images/backgrounds/foodsBg.jpg")
+}
+h3{
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+}
+.breakfast{
+  font-size: 27px;
+  color: red;
+  font-family: cursive;
+  font-style: italic;
+}
+.image{
+  float: right;
+  width: 200px;
+  height:200px;
 }
